@@ -1,12 +1,12 @@
 {
-  "export_job_id": "035af3b7-dc8e-4d04-be89-bfdc814eb0e1",
+  "export_job_id": "d09253d3-1e83-41db-819a-91822288e5e4",
   "id_short": 846501,
-  "published_at": "2026-04-15T19:39:20Z",
+  "published_at": "2026-04-19T19:34:05Z",
   "repo_name": "all-restaurants-in-high-point-north-carolina-us-sample-846501",
   "sample_asset_name": "beamstation_846501_restaurants-us-nc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/846501/beamstation_846501_restaurants-us-nc_SAMPLE_DIST.csv",
-  "sample_records": 31,
-  "sample_sha256": "6b4f5fab8799dbcbffc1cf93b64f568710bec1321151076b035470b406433a9d",
-  "sample_size_bytes": 137077,
-  "total_records": 310
+  "sample_records": 30,
+  "sample_sha256": "8b949044ecaafd994f0fdbcce984ed845977bf1758fcd5bb547a757e2c13aeff",
+  "sample_size_bytes": 130248,
+  "total_records": 308
 }
